@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(28, 0, 31);
+    }
+    header {
+        font-size:xxx-large;
+        color: blueviolet;
+        font-family:cursive;
+        text-align: center;
+    }
+    h2 {
+        font-size:large;
+    font-family: monospace;
+    color: blueviolet;
+    text-align: center;
+    }
+    h3 {
+    font-size: large;
+    font-family: monospace;
+    color: blueviolet;
+    text-align: center;
+    margin: 15%
+    }
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+    img{
+        display:block;
+        margin:auto;
+    }
+    h4{
+        font-family: fantasy;
+        font-size: xx-large;
+        color: azure;
+        text-align: center;
+        margin: 2%
+    }
+    h5{
+        font-family: monospace;
+        font-size: larger;
+        color: rgb(238, 220, 255);
+        text-align: center;
+    
+    }
+    h6 {
+        font-family: fantasy;
+        font-size: xx-large;
+        color: azure;
+        text-align: center;
+        margin: 2%;
+    }
+  
